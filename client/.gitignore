@@ -9,7 +9,7 @@
 *.test
 
 # Ignore Golang's Compiled binaries
-/nadc-intro-to-rpc
+/client
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
