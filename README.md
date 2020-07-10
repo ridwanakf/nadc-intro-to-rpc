@@ -1,5 +1,5 @@
 # NADC - Intro to RPC
-The second workshop of Night Login App Development Community (NADC) - Intro to REST RPC using Go. This is an example of basic implementation of traditional RPC. 
+The second workshop of Night Login App Development Community (NADC) - Intro to RPC using Go. This is an example of basic implementation of traditional RPC. 
 
 ## Getting Started
 
